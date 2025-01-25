@@ -110,7 +110,7 @@ export const StoryDisplay: React.FC = () => {
         </div>
         <div>
           <h3 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
-            Record your voice
+            Record your voice, be sure to be in a quiet place to get the best score for your speech
           </h3>
           <AudioRecorder />
         </div>
